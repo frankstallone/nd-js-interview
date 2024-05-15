@@ -1,6 +1,9 @@
 # ND Interview
 
-## Run
+- Quick vite React app
+
+## How to run
 
 `npm i`
-`npm run dev`
+
+`npm run dev` to run locally
